@@ -19,7 +19,6 @@ Outputs include fuzzy productivity maps / classifications used to delineate Site
 - `src/matlab/` : MATLAB functions (FIS/ANFIS, preprocessing)
 - `src/python/` : Python scripts (fuzzy control system, post-processing)
 - `data/` : input data (not included publicly if large/sensitive)
-- `results/` : generated outputs (not tracked unless stated)
 
 ## Requirements
 ### MATLAB
